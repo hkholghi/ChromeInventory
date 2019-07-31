@@ -1,2 +1,2 @@
 # ChromeInventory
-Chromebook inventory keeps track of the Chromebooks in our domain.
+Chromebook inventory keeps track of the enrolled Chromebooks in our domain.
